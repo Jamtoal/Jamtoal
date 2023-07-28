@@ -1,11 +1,10 @@
 <h2><img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm Jamtoal ! <img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
-<img align='right' src="https://www.yazizzy.top//upload/小黄鸭池塘.jpg" width="415">
 
-<p><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em> Graduated From TJUT</a>！<img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
+<p><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em> College Student From TJUT ！<img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
 </em></p>
 
-
+<img align='right' src="https://www.yazizzy.top//upload/小黄鸭池塘.jpg" width="415">
 
 ### <img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/4.gif" width="50"> A little more about me
 
