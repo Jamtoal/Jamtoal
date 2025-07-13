@@ -17,8 +17,8 @@ s = w1*x1 + w2*x2 + ... + wn*xn
 ```
 
 
-<br>/
-<img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>Hi</b>, I'll be <b>happy to meet you more !</b></em>
+<br>
+<em><b>I love connecting with different people,</b> so if you want to say <b>Hi</b>, I'll be <b>happy to meet you more !</b></em>
 
 ---
 
