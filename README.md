@@ -1,6 +1,6 @@
-<h2><img src="https://www.yazizzy.top//upload/1.gif" width="50"> Hi, I'm Jamtoal ! <img src="https://www.yazizzy.top//upload/1.gif" width="50"></h2>
+<h2>Hi, I'm Jamtoal !</h2>
 
-### Coding Time Now
+<h3>Coding Time Now !</h3>
 
 ```Julia
 输入：一个二进制向量 x = (x1, x2, ..., xn)  // 输入信号
