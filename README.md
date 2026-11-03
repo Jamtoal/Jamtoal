@@ -1,7 +1,5 @@
 <h2>Hi, I'm Jamtoal !</h2>
 
-<h3>Coding Time Now !</h3>
-
 <br>
 <em><b>I love connecting with different people,</b> so if you want to say <b>Hi</b>, I'll be <b>happy to meet you more !</b></em>
 
